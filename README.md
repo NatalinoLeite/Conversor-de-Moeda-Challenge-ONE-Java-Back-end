@@ -5,7 +5,7 @@
 ![Maven](https://img.shields.io/badge/Maven-4.0.0-red)
 
 <p align="center">
-  <img src="URL_PARA_UMA_IMAGEM_OU_GIF_DO_SEU_PROJETO_EM_ACAO" width="600" />
+  <img src="https://drive.google.com/file/d/1xxK6T0bOQYpWe0A7MZnHAyzzgvH_229p/view?usp=drive_link" width="600" />
 </p>
 
 ## :scroll: Sobre o Projeto
